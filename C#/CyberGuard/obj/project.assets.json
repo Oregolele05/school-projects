@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\CyberGuard.csproj",
+      "projectUniqueName": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\school-projects\\C#\\CyberGuard\\CyberGuard.csproj",
       "projectName": "CyberGuard",
-      "projectPath": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\CyberGuard.csproj",
+      "projectPath": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\school-projects\\C#\\CyberGuard\\CyberGuard.csproj",
       "packagesPath": "C:\\Users\\gmkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\obj\\",
+      "outputPath": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\school-projects\\C#\\CyberGuard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gmkin\\AppData\\Roaming\\NuGet\\NuGet.Config",
